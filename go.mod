@@ -1,4 +1,4 @@
-module github.com/nunocoracao/blowfish
+module github.com/bitcoin-alps/bitcoin-alps-website
 
 go 1.20
 
